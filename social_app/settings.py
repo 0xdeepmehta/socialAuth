@@ -120,8 +120,8 @@ SOCIAL_AUTH_FACEBOOK_EXTRA_DATA = [
     ('link', 'profile_url'),
 ]
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'INSERT_PROVIDED_KEY_HERE'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'INSERT_PROVIDED_SECRET_HERE'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '758175659085-o2s2kgsp2r03uibc1li5p69rc32s12pn.apps.googleusercontent.com'
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'Bw8oQ_yKuJzSGZCCt7fXcNxZ'
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
